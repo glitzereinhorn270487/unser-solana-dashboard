@@ -1,0 +1,1 @@
+// App.jsx - Platzhalter für solana-dashboard/src/

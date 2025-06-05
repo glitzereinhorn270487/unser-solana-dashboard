@@ -1,0 +1,1 @@
+// tailwind.config.js - Platzhalter für solana-dashboard/

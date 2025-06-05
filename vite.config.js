@@ -1,0 +1,1 @@
+// vite.config.js - Platzhalter für solana-dashboard/
