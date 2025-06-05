@@ -1,1 +1,5 @@
-// package.json - Platzhalter für solana-dashboard/
+{
+  "name": "solana-dashboard",
+  "version": "1.0.0",
+ 
+}
