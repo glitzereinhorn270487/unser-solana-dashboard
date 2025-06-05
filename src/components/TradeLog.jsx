@@ -1,1 +1,0 @@
-// TradeLog.jsx - Platzhalter für solana-dashboard/src/components/

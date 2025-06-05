@@ -1,1 +1,0 @@
-// WalletStats.jsx - Platzhalter für solana-dashboard/src/components/
